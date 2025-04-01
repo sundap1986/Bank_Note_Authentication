@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/252430409243498935
+creation_time: 1742788229282
+experiment_id: '252430409243498935'
+last_update_time: 1742788229282
+lifecycle_stage: active
+name: BankNote ANN Prediction API
